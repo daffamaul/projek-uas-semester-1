@@ -1,4 +1,6 @@
 # Penjelasan
+Link YouTube: https://youtu.be/huxfXYDo_Jk
+
 > Projek ini membuat sebuah daftar mahasiwa dan daftar nilainya dengan menggunakan konsep CRUD (_Create_, _Update_, _Read_, _Delete_) dan menggunakan bahasa pemrograman _Python_ yang dimana tugas-tugas tersebut dapat dibungkus menjadi sebuah Package (Folder) yang didalamnya terdapat Modul (File). Konsep Package dan Modul memudahkan untuk mengorganisir sebuah program.
 
 ## Tampilan Utama Pada Program
